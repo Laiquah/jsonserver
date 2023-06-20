@@ -13,11 +13,11 @@
     },
     {
         "id" : 3,
-        "first_name" : "Kgodisho",
-        "last_name" : "Lebopa",
-        "email": "kgodisholebopa@gmail.com"
+        "first_name" : "Summer",
+        "last_name" : "De Wet",
+        "email": "summerdewet@gmail.com"
     },
-    {
+  {
         "id" : 4,
         "first_name" : "Nuraan",
         "last_name" : "Davids",
@@ -25,9 +25,9 @@
     },
     {
         "id" : 5,
-        "first_name" : "",
-        "last_name" : "",
-        "email": ""
+        "first_name" : "Kgodisho",
+        "last_name" : "Lebopa",
+        "email": "kgodisholebopa@gmail.com"
     },
     {
         "id" : 6,
